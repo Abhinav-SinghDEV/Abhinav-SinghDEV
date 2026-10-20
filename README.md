@@ -42,7 +42,7 @@ the intersection of Machine Learning and Web Development.
 | Area | Focus |
 |---|---|
 | 💻 Web Development | Building and improving web applications |
-| 🤖 AI / ML | Learning ML fundamentals and exploring AI-powered applications |
+| 🤖 AI / ML | Learning ML  and exploring AI-powered applications |
 | 🧩 DSA | Consistent problem-solving and algorithmic thinking |
 | 🚀 Projects | Building practical projects and improving code quality |
 
@@ -166,7 +166,7 @@ the intersection of Machine Learning and Web Development.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:pragatisinghniru23@gmail.com">
+<a href="mailto:pragatisinghniru20@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
