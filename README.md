@@ -13,21 +13,7 @@ the intersection of Machine Learning and Web Development.
 
 <br/>
 
-<a href="https://github.com/Abhinav-SinghDEV">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav-SinghDEV&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/Abhinav-SinghDEV?tab=followers">
-  <img src="https://img.shields.io/github/followers/Abhinav-SinghDEV?style=for-the-badge&color=blue" alt="Followers"/>
-</a>
-
-<a href="https://github.com/Abhinav-SinghDEV?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=for-the-badge" alt="Repositories"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abhinav-SinghDEV">
+<a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Web+Development+Learner;DSA+%26+Problem+Solving;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 </a>
 
@@ -40,7 +26,7 @@ the intersection of Machine Learning and Web Development.
 ## 🙋‍♂️ About Me
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering at **NIT Silchar**.
-- 💻 Interested in Software Development, Machine Learning, and AI.
+- 💻 Interested in Software Development, Machine Learning, and Artificial Intelligence.
 - 🌱 Currently strengthening my foundations in **Machine Learning and Web Development**.
 - 🧠 Practicing Data Structures and Algorithms to improve my problem-solving skills.
 - 🚀 Interested in building practical projects that solve real-world problems.
@@ -55,7 +41,7 @@ the intersection of Machine Learning and Web Development.
 
 | Area | Focus |
 |---|---|
-| 💻 Web Development | Building and improving full-stack applications |
+| 💻 Web Development | Building and improving web applications |
 | 🤖 AI / ML | Learning ML fundamentals and exploring AI-powered applications |
 | 🧩 DSA | Consistent problem-solving and algorithmic thinking |
 | 🚀 Projects | Building practical projects and improving code quality |
@@ -122,20 +108,6 @@ the intersection of Machine Learning and Web Development.
 
 ---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/Abhinav-SinghDEV">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-SinghDEV&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
-</a>
-
-</div>
-
----
-
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
@@ -194,7 +166,7 @@ the intersection of Machine Learning and Web Development.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:abhinitssingh23@gmail.com">
+<a href="mailto:pragatisinghniru23@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -208,7 +180,6 @@ the intersection of Machine Learning and Web Development.
 
 ### 💡 "Consistency beats intensity. Keep learning, keep building."
 
-⭐ If you find something interesting in my repositories,
-feel free to explore and connect!
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
