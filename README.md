@@ -178,8 +178,6 @@ the intersection of Machine Learning and Web Development.
 
 <div align="center">
 
-### 💡 "Consistency beats intensity. Keep learning, keep building."
-
 ⭐ Feel free to explore my repositories and connect with me!
 
 </div>
