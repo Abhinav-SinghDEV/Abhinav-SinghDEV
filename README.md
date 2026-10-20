@@ -1,24 +1,214 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar Singh</h1>
-<h3 align="center">A Computer Science undergraduate passionate about Machine Learning & Web Development</h3>
+<!-- ======================= HEADER ======================= -->
 
-- 🔭 I’m currently working on [PrepGenius](https://github.com/Abhinav-SinghDEV/PrepGenius)
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+# 👋 Hi, I'm Abhinav Kumar Singh
 
-- 👯 I’m looking to collaborate on [Smart-Corridor 5G Hackathon](https://github.com/Abhinav-SinghDEV/Smart-Corridor-5G-Hackathon)
+### 💻 CSE Undergraduate | Aspiring Software Engineer | ML & Web Development
 
-- 📫 How to reach me **abhinitssingh23@gmail.com**
+🎓 Computer Science undergraduate at NIT Silchar, India 🇮🇳
 
-<h3 align="left">Connect with me:</h3>
+Building projects, solving DSA problems, and exploring
+the intersection of Machine Learning and Web Development.
+
+<br/>
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-SinghDEV&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV?tab=followers">
+  <img src="https://img.shields.io/github/followers/Abhinav-SinghDEV?style=for-the-badge&color=blue" alt="Followers"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=for-the-badge" alt="Repositories"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Web+Development+Learner;DSA+%26+Problem+Solving;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+## 🙋‍♂️ About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at **NIT Silchar**.
+- 💻 Interested in Software Development, Machine Learning, and AI.
+- 🌱 Currently strengthening my foundations in **Machine Learning and Web Development**.
+- 🧠 Practicing Data Structures and Algorithms to improve my problem-solving skills.
+- 🚀 Interested in building practical projects that solve real-world problems.
+- 🤝 Open to collaborating on interesting software and AI/ML projects.
+- 🎯 Working towards becoming a well-rounded Software Engineer.
+
+---
+
+<!-- ======================= CURRENT WORK ======================= -->
+
+## 🔭 What I'm Working On
+
+| Area | Focus |
+|---|---|
+| 💻 Web Development | Building and improving full-stack applications |
+| 🤖 AI / ML | Learning ML fundamentals and exploring AI-powered applications |
+| 🧩 DSA | Consistent problem-solving and algorithmic thinking |
+| 🚀 Projects | Building practical projects and improving code quality |
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/abhinav kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav kumar singh" height="30" width="40" /></a>
-<a href="https://fb.com/abhinav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinav singh" height="30" width="40" /></a>
-<a href="https://instagram.com/abhina_v79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhina_v79" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhinav_nits" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav_nits" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhinavsingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinavsingh07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhiv79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhiv79" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Programming Languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Frontend Development
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,postman" alt="Backend Technologies"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="AI and Machine Learning"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Developer Tools"/>
+</p>
+
+---
+
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhinav-SinghDEV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-SinghDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img src="https://streak-stats.demolab.com?user=Abhinav-SinghDEV&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-SinghDEV&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Abhinav-SinghDEV/PrepGenius">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-SinghDEV&repo=PrepGenius&theme=tokyonight&hide_border=true" alt="PrepGenius"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV/Daily-DSA-Practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-SinghDEV&repo=Daily-DSA-Practice&theme=tokyonight&hide_border=true" alt="Daily DSA Practice"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV/Smart-Corridor-5G-Hackathon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-SinghDEV&repo=Smart-Corridor-5G-Hackathon&theme=tokyonight&hide_border=true" alt="Smart Corridor 5G Hackathon"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= CODING PROFILES ======================= -->
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/abhiv79/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://codeforces.com/profile/abhinavsingh07">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/abhinav_nits">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhinav-singh-35330336b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Abhinav-SinghDEV">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:abhinitssingh23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<div align="center">
+
+### 💡 "Consistency beats intensity. Keep learning, keep building."
+
+⭐ If you find something interesting in my repositories,
+feel free to explore and connect!
+
+</div>
