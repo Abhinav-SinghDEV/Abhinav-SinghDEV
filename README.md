@@ -125,8 +125,8 @@ the intersection of Machine Learning and Web Development.
       <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV"/><br/>OpenCV
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="Pandas"/><br/>Pandas
-    </td>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="45" height="45" alt="Pandas"/><br/>Pandas
+</td>
   </tr>
 
   <tr>
@@ -176,8 +176,8 @@ the intersection of Machine Learning and Web Development.
       <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br/>Redis
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br/>Angular
-    </td>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/><br/>React Native
+</td>
     <td align="center" width="120">
   <img src="https://numpy.org/images/logo.svg" width="45" height="45" alt="NumPy"/><br/>NumPy
 </td>
