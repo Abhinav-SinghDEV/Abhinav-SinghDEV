@@ -179,8 +179,8 @@ the intersection of Machine Learning and Web Development.
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br/>Angular
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br/>Redux
-    </td>
+  <img src="https://numpy.org/images/logo.svg" width="45" height="45" alt="NumPy"/><br/>NumPy
+</td>
   </tr>
 </table>
 
