@@ -50,8 +50,6 @@ the intersection of Machine Learning and Web Development.
 
 <!-- ======================= TECH STACK ======================= -->
 
-<!-- ======================= TECH STACK ======================= -->
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages and Tools
@@ -76,6 +74,7 @@ the intersection of Machine Learning and Web Development.
       <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/><br/>TypeScript
     </td>
   </tr>
+
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/><br/>HTML5
@@ -84,16 +83,20 @@ the intersection of Machine Learning and Web Development.
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/><br/>CSS3
     </td>
     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/><br/>Bootstrap
+    </td>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/><br/>React
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/><br/>Tailwind CSS
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/><br/>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/><br/>Express.js
     </td>
@@ -106,17 +109,27 @@ the intersection of Machine Learning and Web Development.
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/><br/>PostgreSQL
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br/>Postman
-    </td>
   </tr>
+
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/><br/>PyTorch
     </td>
     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/><br/>TensorFlow
+    </td>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-learn"/><br/>Scikit-learn
     </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV"/><br/>OpenCV
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="Pandas"/><br/>Pandas
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/><br/>Git
     </td>
@@ -126,19 +139,44 @@ the intersection of Machine Learning and Web Development.
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/><br/>VS Code
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/><br/>Linux
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/><br/>Docker
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/><br/>Kubernetes
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Apache Kafka"/><br/>Apache Kafka
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana"/><br/>Grafana
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/><br/>Firebase
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/><br/>Postman
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/><br/>Next.js
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/><br/>Firebase
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go"/><br/>Go
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/><br/>Redis
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/><br/>Angular
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/><br/>Redux
